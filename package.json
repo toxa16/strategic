@@ -12,7 +12,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "strategic-dependency-injection": "0.0.1",
-    "strategic-routing": "0.0.2"
+    "strategic-dependency-injection": "0.0.2",
+    "strategic-routing": "0.0.3"
   }
 }

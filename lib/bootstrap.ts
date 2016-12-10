@@ -1,5 +1,6 @@
-import {inject} from 'strategic-dependency-injection/dist/lib/inject';
-import {launch} from 'strategic-routing/dist';
+import {inject} from 'strategic-dependency-injection';
+import {launch} from 'strategic-routing';
+
 
 /**
  * Bootstraps Strategic.js application's root service.
