@@ -1,0 +1,18 @@
+{
+  "name": "strategic",
+  "version": "0.0.1",
+  "description": "The most strategic framework for developing Node.js REST APIs on TypeScript.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "author": {
+    "name": "Anton Bahurinsky"
+  },
+  "engines": {
+    "node": ">= 6.9.2"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "strategic-dependency-injection": "0.0.1",
+    "strategic-routing": "0.0.2"
+  }
+}
